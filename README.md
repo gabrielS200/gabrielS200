@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gabriel, an <a href="https://linkedin.com/in/Josh">IT Professional</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
